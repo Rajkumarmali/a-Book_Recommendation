@@ -1,0 +1,8 @@
+.carousel-item {
+    height: 700px;
+}
+@media screen and (max-width: 1000px) {
+    .carousel-item {
+        height: auto;   
+    }
+}
